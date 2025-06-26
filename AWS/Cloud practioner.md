@@ -64,4 +64,3 @@ Find me on **[LinkedIn](https://www.linkedin.com/in/suleyman-m-a74768221)**, or 
 ---
 
 _Thanks for reading, and happy learning!_ 🚀
-```
