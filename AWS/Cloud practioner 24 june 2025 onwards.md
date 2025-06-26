@@ -19,6 +19,7 @@ Whether you're a complete beginner or brushing up for the exam, I hope these pos
 3. [☁️ What Is Serverless Computing? (And Why It’s Changing the Game on AWS)](https://dev.to/YOUR_USERNAME/what-is-serverless-computing-and-why-its-changing-the-game-on-aws)
 4. [🌍 What Is AWS Global Infrastructure? (And Why It Matters If You’re Going Global)](https://dev.to/1suleyman/what-is-aws-global-infrastructure-and-why-it-matters-if-youre-going-global-4a5f)
 5. [🌐 What Is AWS Networking? (And Why It’s the Backbone of Your Cloud Setup)](https://dev.to/1suleyman/what-is-aws-networking-and-why-its-the-backbone-of-your-cloud-setup-2e63)
+6. [🗄️ Which AWS Storage Service Should You Use? (Let’s Break It Down Like Real Life)](https://dev.to/1suleyman/which-aws-storage-service-should-you-use-lets-break-it-down-like-real-life-1n2m)
 
 ## 🔗 How to Use This Repo
 
