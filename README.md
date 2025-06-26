@@ -33,7 +33,9 @@ I wanted a space where I could:
 Soon I’ll be adding new folders and content for:
 
 - **Networking Basics**
-- **Azure & Microsoft Entra**
+- **Python**
+- **Powershell**
+- **Azure**
 - **Bash Scripting**
 - **CI/CD with GitHub Actions & Pipelines**
 
@@ -44,4 +46,3 @@ Soon I’ll be adding new folders and content for:
 If you’re on a similar journey, I’d love to learn together — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/suleyman-m-a74768221) or follow along on [dev.to](https://dev.to/1suleyman).
 
 Happy learning & building! 🌱✨
-```
