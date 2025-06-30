@@ -10,10 +10,13 @@ Whether you’re just getting started, prepping for certifications, or building 
 
 This repo is organized by topic — each folder contains blog-style breakdowns, mini-labs, and notes from my study journey.
 
-| 📁 Folder | 🌟 What's Inside |
-|----------|------------------|
-| [**AWS**](./AWS) | My study series for the **AWS Certified Cloud Practitioner**, with blog-style notes on core services like EC2, S3, and Serverless |
-| [**Linux**](./Linux) | A beginner-friendly dive into Linux fundamentals — from commands and permissions to scripting and file systems |
+| 📁 Folder   | 🌟 What's Inside |
+|------------|------------------|
+| [**AWS**](./AWS) | My study notes and blogs for the **AWS Certified Cloud Practitioner** exam (CCP) — including EC2, S3, Serverless, IAM, and more |
+| [**Azure**](./Azure) | ... |
+| [**Linux**](./Linux) | ... |
+| [**Git**](./Git) | ... |
+| [**Python**](./Python) | ... |
 
 ---
 
@@ -33,10 +36,7 @@ I wanted a space where I could:
 Soon I’ll be adding new folders and content for:
 
 - **Networking Basics**
-- **Python**
 - **Powershell**
-- **Azure**
-- **Bash Scripting**
 - **CI/CD with GitHub Actions & Pipelines**
 
 ---
