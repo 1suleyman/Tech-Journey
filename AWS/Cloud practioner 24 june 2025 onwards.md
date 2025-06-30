@@ -21,6 +21,7 @@ Whether you're a complete beginner or brushing up for the exam, I hope these pos
 5. [🌐 What Is AWS Networking? (And Why It’s the Backbone of Your Cloud Setup)](https://dev.to/1suleyman/what-is-aws-networking-and-why-its-the-backbone-of-your-cloud-setup-2e63)
 6. [🗄️ Which AWS Storage Service Should You Use? (Let’s Break It Down Like Real Life)](https://dev.to/1suleyman/which-aws-storage-service-should-you-use-lets-break-it-down-like-real-life-1n2m)
 7. [☁️ What Is Amazon RDS, DynamoDB, and Neptune? (And When to Use Each One)](https://dev.to/1suleyman/what-is-amazon-rds-dynamodb-and-neptune-and-when-to-use-each-one-266b)
+8. [🧠 What Is Data Analytics & AI/ML? (And Why They’re Better Together in the Cloud)](https://dev.to/1suleyman/what-is-data-analytics-aiml-and-why-theyre-better-together-in-the-cloud-31pb)
 
 ## 🔗 How to Use This Repo
 
