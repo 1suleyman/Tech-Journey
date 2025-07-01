@@ -23,6 +23,7 @@ Whether you're a complete beginner or brushing up for the exam, I hope these pos
 7. [☁️ What Is Amazon RDS, DynamoDB, and Neptune? (And When to Use Each One)](https://dev.to/1suleyman/what-is-amazon-rds-dynamodb-and-neptune-and-when-to-use-each-one-266b)
 8. [🧠 What Is Data Analytics & AI/ML? (And Why They’re Better Together in the Cloud)](https://dev.to/1suleyman/what-is-data-analytics-aiml-and-why-theyre-better-together-in-the-cloud-31pb)
 9. [🔒 What Is Cloud Security on AWS? (And Why It’s Everyone’s Job)](https://dev.to/1suleyman/what-is-cloud-security-on-aws-and-why-its-everyones-job-ge4)
+10. [🔍 What Is Monitoring & Governance in AWS? (And Why It’s a Game-Changer for Cloud Builders)](https://dev.to/1suleyman/what-is-monitoring-governance-in-aws-and-why-its-a-game-changer-for-cloud-builders-40o4)
 
 ## 🔗 How to Use This Repo
 
