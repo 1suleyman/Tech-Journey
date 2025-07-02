@@ -26,6 +26,7 @@ Whether you're a complete beginner or brushing up for the exam, I hope these pos
 10. [🔍 What Is Monitoring & Governance in AWS? (And Why It’s a Game-Changer for Cloud Builders)](https://dev.to/1suleyman/what-is-monitoring-governance-in-aws-and-why-its-a-game-changer-for-cloud-builders-40o4)
 11. [💸 What Is AWS Cost Optimisation? (And Why It Matters for Your Cloud Wallet)](https://dev.to/1suleyman/what-is-aws-cost-optimisation-and-why-it-matters-for-your-cloud-wallet-1eep)
 12. [☁️ How Do You Migrate to the Cloud? (The AWS Way, With a Map, Options & Moving Crew)](https://dev.to/1suleyman/how-do-you-migrate-to-the-cloud-the-aws-way-with-a-map-options-moving-crew-4i6)
+13. [☁️ What Is the AWS Well-Architected Framework? (And Why It Matters for Developers, Teams & Cloud Builders)](https://dev.to/1suleyman/what-is-the-aws-well-architected-framework-and-why-it-matters-for-developers-teams-cloud-cmg)
 
 ## 🔗 How to Use This Repo
 
