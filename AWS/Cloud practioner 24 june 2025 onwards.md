@@ -28,6 +28,16 @@ Whether you're a complete beginner or brushing up for the exam, I hope these pos
 12. [☁️ How Do You Migrate to the Cloud? (The AWS Way, With a Map, Options & Moving Crew)](https://dev.to/1suleyman/how-do-you-migrate-to-the-cloud-the-aws-way-with-a-map-options-moving-crew-4i6)
 13. [☁️ What Is the AWS Well-Architected Framework? (And Why It Matters for Developers, Teams & Cloud Builders)](https://dev.to/1suleyman/what-is-the-aws-well-architected-framework-and-why-it-matters-for-developers-teams-cloud-cmg)
 
+## 🛠️ NEW: AWS Hands-On Project  
+Alongside the blog posts, I’m now building a **real cloud project** — a secure employee directory application hosted on AWS.
+
+This section documents my full journey through a guided lab project (6 modules total). Each module teaches real services like IAM, EC2, S3, DynamoDB, VPC, Load Balancing, and more — with step-by-step tasks so I can eventually rebuild the project from scratch 💪
+
+🧾 [Project Checklist](https://github.com/1suleyman/-AWS-Employee-Directory-Project-Hands-On-Lab-)   
+💡 Use this as a learning reference or template for your own builds
+
+---
+
 ## 🔗 How to Use This Repo
 
 1. **Bookmark** this page to come back and review notes anytime.
