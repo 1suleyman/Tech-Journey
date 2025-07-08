@@ -30,13 +30,36 @@ Whether you're a complete beginner or brushing up for the exam, I hope these pos
 14. [💾 Choosing the Right AWS Storage (And Why It’ll Save You a Headache Later)](https://dev.to/1suleyman/how-i-started-building-secure-cloud-apps-on-aws-and-what-i-learned-about-iam-ec2-and-root-386a)
 15. [⚖️ Traffic Routing and Auto Scaling on AWS (The Easy Way With ELB + EC2 Auto Scaling)](https://dev.to/1suleyman/traffic-routing-and-auto-scaling-on-aws-the-easy-way-with-elb-ec2-auto-scaling-2k0e)
 
-## 🛠️ AWS 3-Tier Employee Directory Web Application Hands-On Project  
-Alongside the blog posts, I’m now building a **real cloud project** — a secure employee directory application hosted on AWS.
+## 🛠️ AWS 3-Tier Employee Directory Web Application (Hands-On Lab)
 
-This section documents my full journey through a guided lab project (6 modules total). Each module teaches real services like IAM, EC2, S3, DynamoDB, VPC, Load Balancing, and more — with step-by-step tasks so I can eventually rebuild the project from scratch 💪
+Alongside the blog posts, I’m also building a **real-world cloud project** — a secure, scalable **Employee Directory Web Application** hosted fully on AWS.
 
-🧾 [Project Checklist](https://github.com/1suleyman/-AWS-Employee-Directory-Project-Hands-On-Lab-)   
-💡 Use this as a learning reference or template for your own builds
+This hands-on lab walks through the end-to-end setup of a 3-tier architecture, using core AWS services like:
+
+- **IAM** for access control  
+- **EC2** for compute  
+- **S3** for storing profile images  
+- **DynamoDB** for employee records  
+- **VPC** for custom networking  
+- **Elastic Load Balancing** for traffic routing  
+- **EC2 Auto Scaling** for fault tolerance and scalability  
+- [Coming soon] **API Gateway + Lambda** for a serverless contact form  
+
+🧱 Think of it as my personal "capstone" project for mastering AWS fundamentals.
+
+---
+
+### 📋 Project Breakdown
+
+- ✅ [**Planned Steps (Module-by-Module Guide)**](Content/planned.md)  
+  My step-by-step breakdown of each AWS module — including setup instructions, configuration decisions, and why each service is used.
+
+- 🚀 [**Executed Walkthrough (My Hands-On Progress)**](Content/executed.md)  
+  Logs of my actual implementation, screenshots, troubleshooting, test results, and lessons learned from doing it myself.
+
+---
+
+Whether you’re studying for AWS certifications or trying to launch your own cloud app, feel free to explore this project and use it as a guide or template 💡
 
 ---
 
