@@ -1,0 +1,6 @@
+print("Hello and Welcome to 'Is it Even or Odd'? ")
+input = int(input("Enter a number and you will be told if it's even or odd "))
+if (input % 2 == 0):
+    print("It's EVEN!!!!")
+else:
+    print("It's ODD!!!!")
