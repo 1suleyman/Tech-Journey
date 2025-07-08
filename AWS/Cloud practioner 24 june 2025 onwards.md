@@ -27,8 +27,10 @@ Whether you're a complete beginner or brushing up for the exam, I hope these pos
 11. [💸 What Is AWS Cost Optimisation? (And Why It Matters for Your Cloud Wallet)](https://dev.to/1suleyman/what-is-aws-cost-optimisation-and-why-it-matters-for-your-cloud-wallet-1eep)
 12. [☁️ How Do You Migrate to the Cloud? (The AWS Way, With a Map, Options & Moving Crew)](https://dev.to/1suleyman/how-do-you-migrate-to-the-cloud-the-aws-way-with-a-map-options-moving-crew-4i6)
 13. [☁️ What Is the AWS Well-Architected Framework? (And Why It Matters for Developers, Teams & Cloud Builders)](https://dev.to/1suleyman/what-is-the-aws-well-architected-framework-and-why-it-matters-for-developers-teams-cloud-cmg)
+14. [💾 Choosing the Right AWS Storage (And Why It’ll Save You a Headache Later)](https://dev.to/1suleyman/how-i-started-building-secure-cloud-apps-on-aws-and-what-i-learned-about-iam-ec2-and-root-386a)
+15. [⚖️ Traffic Routing and Auto Scaling on AWS (The Easy Way With ELB + EC2 Auto Scaling)](https://dev.to/1suleyman/traffic-routing-and-auto-scaling-on-aws-the-easy-way-with-elb-ec2-auto-scaling-2k0e)
 
-## 🛠️ NEW: AWS Hands-On Project  
+## 🛠️ AWS 3-Tier Employee Directory Web Application Hands-On Project  
 Alongside the blog posts, I’m now building a **real cloud project** — a secure employee directory application hosted on AWS.
 
 This section documents my full journey through a guided lab project (6 modules total). Each module teaches real services like IAM, EC2, S3, DynamoDB, VPC, Load Balancing, and more — with step-by-step tasks so I can eventually rebuild the project from scratch 💪
