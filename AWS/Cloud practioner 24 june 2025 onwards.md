@@ -51,10 +51,10 @@ This hands-on lab walks through the end-to-end setup of a 3-tier architecture, u
 
 ### 📋 Project Breakdown
 
-- ✅ [**Planned Steps (Module-by-Module Guide)**](Content/planned.md)  
+- ✅ [**Planned Steps (Module-by-Module Guide)**](https://github.com/1suleyman/-AWS-Employee-Directory-Project-Hands-On-Lab-/blob/main/Content/planned.md)  
   My step-by-step breakdown of each AWS module — including setup instructions, configuration decisions, and why each service is used.
 
-- 🚀 [**Executed Walkthrough (My Hands-On Progress)**](Content/executed.md)  
+- 🚀 [**Executed Walkthrough (My Hands-On Progress)**](https://github.com/1suleyman/-AWS-Employee-Directory-Project-Hands-On-Lab-/blob/main/Content/executed.md)  
   Logs of my actual implementation, screenshots, troubleshooting, test results, and lessons learned from doing it myself.
 
 ---
