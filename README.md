@@ -10,18 +10,13 @@ Whether you’re just getting started, prepping for certifications, or building 
 
 This repo is organized by topic — each folder contains blog-style breakdowns, mini-labs, and notes from my study journey.
 
-| 📁 Folder   | 🌟 What's Inside                                                                                     |
-|------------|-------------------------------------------------------------------------------------------------------|
-| [**AWS**](./AWS) | My hands-on AWS projects, lab breakdowns, and certification notes. Includes:
-                       - ✅ 3-Tier Employee Directory Web App (EC2 + S3 + DynamoDB)
-                       - ✅ VPC networking, IAM, security groups, and subnet design
-                       - ✅ Application Load Balancer + Auto Scaling configuration
-                       - ✅ Monitoring, scaling tests, and infrastructure debugging
-                       - 📚 Study notes for AWS Certified Cloud Practitioner (CCP) and Solutions Architect (ongoing) |
-| [**Azure**](./Azure) | ...                                                                                         |
-| [**Linux**](./Linux) | ...                                                                                         |
-| [**Git**](./Git) | ...                                                                                             |
-| [**Python**](./Python) | ...                                                                                       | 
+| 📁 Folder   | 🌟 What's Inside |
+|------------|------------------|
+| [**AWS**](./AWS) | My hands-on AWS projects and study notes, including: <br> • 3-Tier Employee Directory Web App (EC2, S3, DynamoDB) <br> • Custom VPC networking, IAM roles, and security setup <br> • Load Balancer + Auto Scaling with health checks <br> • Monitoring, troubleshooting, and scaling simulations <br> • Notes for the AWS Certified Cloud Practitioner (CCP) exam |
+| [**Azure**](./Azure) | ... |
+| [**Linux**](./Linux) | ... |
+| [**Git**](./Git) | ... |
+| [**Python**](./Python) | ... | 
 
 ---
 
