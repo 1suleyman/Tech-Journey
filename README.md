@@ -10,18 +10,18 @@ Whether you’re just getting started, prepping for certifications, or building 
 
 This repo is organized by topic — each folder contains blog-style breakdowns, mini-labs, and notes from my study journey.
 
-| 📁 Folder   | 🌟 What's Inside |
-|------------|------------------|
+| 📁 Folder   | 🌟 What's Inside                                                                                     |
+|------------|-------------------------------------------------------------------------------------------------------|
 | [**AWS**](./AWS) | My hands-on AWS projects, lab breakdowns, and certification notes. Includes:
                        - ✅ 3-Tier Employee Directory Web App (EC2 + S3 + DynamoDB)
                        - ✅ VPC networking, IAM, security groups, and subnet design
                        - ✅ Application Load Balancer + Auto Scaling configuration
                        - ✅ Monitoring, scaling tests, and infrastructure debugging
                        - 📚 Study notes for AWS Certified Cloud Practitioner (CCP) and Solutions Architect (ongoing) |
-| [**Azure**](./Azure) | ... |
-| [**Linux**](./Linux) | ... |
-| [**Git**](./Git) | ... |
-| [**Python**](./Python) | ... |
+| [**Azure**](./Azure) | ...                                                                                         |
+| [**Linux**](./Linux) | ...                                                                                         |
+| [**Git**](./Git) | ...                                                                                             |
+| [**Python**](./Python) | ...                                                                                       | 
 
 ---
 
