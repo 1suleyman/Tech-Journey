@@ -12,7 +12,12 @@ This repo is organized by topic — each folder contains blog-style breakdowns, 
 
 | 📁 Folder   | 🌟 What's Inside |
 |------------|------------------|
-| [**AWS**](./AWS) | My study notes and blogs for the **AWS Certified Cloud Practitioner** exam (CCP) — including EC2, S3, Serverless, IAM, and more |
+| [**AWS**](./AWS) | My hands-on AWS projects, lab breakdowns, and certification notes. Includes:
+                       - ✅ 3-Tier Employee Directory Web App (EC2 + S3 + DynamoDB)
+                       - ✅ VPC networking, IAM, security groups, and subnet design
+                       - ✅ Application Load Balancer + Auto Scaling configuration
+                       - ✅ Monitoring, scaling tests, and infrastructure debugging
+                       - 📚 Study notes for AWS Certified Cloud Practitioner (CCP) and Solutions Architect (ongoing) |
 | [**Azure**](./Azure) | ... |
 | [**Linux**](./Linux) | ... |
 | [**Git**](./Git) | ... |
