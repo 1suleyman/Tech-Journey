@@ -10,7 +10,7 @@ Whether you're brand new to Terraform or brushing up for the cert, I hope these 
 
 ---
 
-## 📚 Blog Posts / Learning Notes (Coming Soon)
+## 📚 Blog Posts / Learning Notes
 
 > Each post breaks down Terraform concepts in plain English, using analogies, examples, and visuals when it helps. Here’s the learning path I’m following:
 
