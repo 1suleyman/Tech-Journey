@@ -15,6 +15,7 @@ Whether you're brand new to Terraform or brushing up for the cert, I hope these 
 > Each post breaks down Terraform concepts in plain English, using analogies, examples, and visuals when it helps. Here’s the learning path I’m following:
 
 1. [🛠️ What Can You Actually Do With Terraform? (And Why It’s a Game-Changer for Cloud Teams)](https://dev.to/1suleyman/what-can-you-actually-do-with-terraform-and-why-its-a-game-changer-for-cloud-teams-fk2)
+2. [🧰 How to Install Terraform (And Get It Working in Under 7 Minutes)](https://dev.to/1suleyman/how-to-install-terraform-and-get-it-working-in-under-7-minutes-4im1)
 
 ---
 
