@@ -16,6 +16,7 @@ Whether you're brand new to Terraform or brushing up for the cert, I hope these 
 
 1. [🛠️ What Can You Actually Do With Terraform? (And Why It’s a Game-Changer for Cloud Teams)](https://dev.to/1suleyman/what-can-you-actually-do-with-terraform-and-why-its-a-game-changer-for-cloud-teams-fk2)
 2. [🧰 How to Install Terraform (And Get It Working in Under 7 Minutes)](https://dev.to/1suleyman/how-to-install-terraform-and-get-it-working-in-under-7-minutes-4im1)
+3. [💻 What Is Infrastructure as Code? (And How to Choose the Right Tool Like a Pro)](https://dev.to/1suleyman/what-is-infrastructure-as-code-and-how-to-choose-the-right-tool-like-a-pro-3ahh)
 
 ---
 
