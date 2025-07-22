@@ -17,6 +17,7 @@ This repo is organized by topic — each folder contains blog-style breakdowns, 
 | [**Linux**](./Linux) | ... |
 | [**Git**](./Git) | ... |
 | [**Python**](./Python) | ... | 
+| [**Terraform**](./Terraform) | ... |
 
 ---
 
