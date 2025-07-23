@@ -101,10 +101,13 @@ Stay tuned — and feel free to submit suggestions!
 
 ## 🤝 Let’s Connect
 
-Have feedback? Questions? Want to collab?
+If you're also learning AWs or cloud in general — I’d love to connect.
 
-Find me on **[LinkedIn](https://www.linkedin.com/in/suleyman-m-a74768221)**, or send a message via **[dev.to](https://dev.to/1suleyman)** — I’d love to hear from you 💬
+- 💼 [LinkedIn – Suleyman Mohamud](https://www.linkedin.com/in/suleyman-m-a74768221)  
+- 🧠 [Dev.to – @1suleyman](https://dev.to/1suleyman)
+
+Feel free to fork, clone, or suggest improvements. Let’s keep learning together 🚀
 
 ---
 
-_Thanks for reading, and happy learning!_ 🚀
+_Thanks for visiting — now open aws and have some fun!_ 🖥️✨
