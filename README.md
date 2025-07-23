@@ -17,7 +17,7 @@ This repo is organized by topic — each folder contains blog-style breakdowns, 
 | [**Linux**](./Linux) | ... |
 | [**Git**](./Git) | My personal Git reference vault, filled with: <br> • Bite-sized notes and real-world command examples <br> • Mini-labs on branching, merging, undoing mistakes, and remote workflows <br> • Step-by-step guides for going from local repo to GitHub <br> • Clear explanations of GitHub Flow, collaboration, and recovery commands <br> • Written in plain English to make Git feel intuitive — not intimidating |
 | [**Python**](./Python) | My journey through the 100 Days of Python challenge: <br> • Beginner-friendly projects like Band Name Generator, Tip Calculator, and Rock-Paper-Scissors <br> • Each day builds on the last with new syntax, logic, and problem-solving <br> • Practice with variables, conditionals, loops, functions, and user input <br> • Clean, beginner-focused code to reinforce fundamentals and build confidence |
-| [**Terraform**](./Terraform) | ... |
+| [**Terraform**](./Terraform) | My learning vault for the HashiCorp Certified: Terraform Associate exam: <br> • Blog-style breakdowns of Terraform concepts in plain English <br> • Real-world analogies, visuals, and hands-on examples <br> • Notes on providers, state, variables, outputs, and modules <br> • Includes a hands-on IaC project to deploy AWS infrastructure with Terraform <br> • Ideal for anyone new to Infrastructure as Code or looking to study smarter |
 | [**Kubernetes**](./Kubernetes) | ... |
 
 ---
