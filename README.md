@@ -18,6 +18,7 @@ This repo is organized by topic — each folder contains blog-style breakdowns, 
 | [**Git**](./Git) | ... |
 | [**Python**](./Python) | ... | 
 | [**Terraform**](./Terraform) | ... |
+| [**Kubernetes**](./Kubernetes) | ... |
 
 ---
 
