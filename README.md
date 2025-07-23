@@ -16,7 +16,7 @@ This repo is organized by topic — each folder contains blog-style breakdowns, 
 | [**Azure**](./Azure) | ... |
 | [**Linux**](./Linux) | ... |
 | [**Git**](./Git) | My personal Git reference vault, filled with: <br> • Bite-sized notes and real-world command examples <br> • Mini-labs on branching, merging, undoing mistakes, and remote workflows <br> • Step-by-step guides for going from local repo to GitHub <br> • Clear explanations of GitHub Flow, collaboration, and recovery commands <br> • Written in plain English to make Git feel intuitive — not intimidating |
-| [**Python**](./Python) | ... | 
+| [**Python**](./Python) | My journey through the 100 Days of Python challenge: <br> • Beginner-friendly projects like Band Name Generator, Tip Calculator, and Rock-Paper-Scissors <br> • Each day builds on the last with new syntax, logic, and problem-solving <br> • Practice with variables, conditionals, loops, functions, and user input <br> • Clean, beginner-focused code to reinforce fundamentals and build confidence |
 | [**Terraform**](./Terraform) | ... |
 | [**Kubernetes**](./Kubernetes) | ... |
 
