@@ -15,7 +15,7 @@ This repo is organized by topic — each folder contains blog-style breakdowns, 
 | [**AWS**](./AWS) | My hands-on AWS projects and study notes, including: <br> • 3-Tier Employee Directory Web App (EC2, S3, DynamoDB) <br> • Custom VPC networking, IAM roles, and security setup <br> • Load Balancer + Auto Scaling with health checks <br> • Monitoring, troubleshooting, and scaling simulations <br> • Notes for the AWS Certified Cloud Practitioner (CCP) exam |
 | [**Azure**](./Azure) | ... |
 | [**Linux**](./Linux) | ... |
-| [**Git**](./Git) | ... |
+| [**Git**](./Git) | My personal Git reference vault, filled with: <br> • Bite-sized notes and real-world command examples <br> • Mini-labs on branching, merging, undoing mistakes, and remote workflows <br> • Step-by-step guides for going from local repo to GitHub <br> • Clear explanations of GitHub Flow, collaboration, and recovery commands <br> • Written in plain English to make Git feel intuitive — not intimidating |
 | [**Python**](./Python) | ... | 
 | [**Terraform**](./Terraform) | ... |
 | [**Kubernetes**](./Kubernetes) | ... |
