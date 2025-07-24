@@ -20,6 +20,7 @@ Whether you're brand new to Terraform or brushing up for the cert, I hope these 
 4. [🧠 What Happens Behind the Scenes in Terraform? (And Why You Should Care About Refresh and State Files)](https://dev.to/1suleyman/what-happens-behind-the-scenes-in-terraform-and-why-you-should-care-about-refresh-and-state-163d)
 5. [🔐 How to Authenticate Terraform with AWS the Right Way (Without Leaking Your Secrets)](https://dev.to/1suleyman/how-to-authenticate-terraform-with-aws-the-right-way-without-leaking-your-secrets-1bbn)
 6. [🧱 What Are Terraform Providers and How Do They Work? (Beginner’s Guide with DigitalOcean Example)](https://dev.to/1suleyman/what-are-terraform-providers-and-how-do-they-work-beginners-guide-with-digitalocean-example-2bkp)
+7. [🛡️ How to Create AWS Firewall Rules with Terraform (And Why It's Like Programming a Smart Gate)](https://dev.to/1suleyman/how-to-create-aws-firewall-rules-with-terraform-and-why-its-like-programming-a-smart-gate-166m)
 
 ---
 
