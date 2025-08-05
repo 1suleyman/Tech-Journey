@@ -14,7 +14,7 @@ resource "aws_security_group" "prod" {
 ```sh
 terraform {
   backend "s3" {
-    bucket = "s3forterraform"
+    bucket = "s3forterraform427"
     key    = "production.tfstate"
     region = "eu-west-2"
     use_lockfile = "true"
