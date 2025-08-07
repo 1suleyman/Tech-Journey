@@ -51,6 +51,9 @@ Whether you're brand new to Terraform or brushing up for the cert, I hope these 
 35. [💻 What Is Sentinel? (And Why It’s Your Terraform Deployment’s Bodyguard)](https://dev.to/1suleyman/what-is-sentinel-and-why-its-your-terraform-deployments-bodyguard-2hcb)
 36. [Terraform Challenge - 2 (Goal: - Creates an AWS Security Group with 3 inbound rules and 1 outbound rule -Creates an Elastic IP (EIP) resource -Uses outdated syntax, hardcoded values, poor formatting, and lacks modular structure)](https://github.com/1suleyman/Tech-Journey/blob/main/Terraform/KP-TERRAFORM-LABS/Challenges/challenge-2.md)
 37. [Terraform Challenge 3 – Dynamic EC2 Instances with for_each (Goal: Use the for_each loop in Terraform to dynamically create multiple EC2 instances from a map variable)](https://github.com/1suleyman/Tech-Journey/blob/main/Terraform/KP-TERRAFORM-LABS/Challenges/challenge-3.md)
+38. [Terraform Challenge 4 - (Goal: -Fetch and list all IAM users in the AWS account.
+-Output the count of total IAM users.
+-Create a new IAM user with a dynamic name in the format: admin-user<account_id>.)](https://github.com/1suleyman/Tech-Journey/blob/main/Terraform/KP-TERRAFORM-LABS/Challenges/challenge-4.md)
 
 ---
 
