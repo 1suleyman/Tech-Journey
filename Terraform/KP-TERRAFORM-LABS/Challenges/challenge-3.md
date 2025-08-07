@@ -140,6 +140,3 @@ To avoid AWS charges.
 | .tfstate tracking  | Resources are tracked with their key name to manage add/remove/update behavior |
 | Real-world benefit | Avoids duplication, enables scaling, makes infra changes easy and safe         |
 
----
-
-Let me know if you want this turned into a GitHub-ready `README.md` or if you want a **Challenge 3 vs Challenge 2 comparison table**.
