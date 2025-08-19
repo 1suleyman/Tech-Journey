@@ -60,7 +60,7 @@ Whether you're brand new to Terraform or brushing up for the cert, I hope these 
 ## 💻 Hands-On Lab Project: Terraform-Powered 3-Tier Employee Directory
 
 Alongside the study notes, I’m building a **real-world Infrastructure as Code (IaC) project** using Terraform.
-This project provisions a **3-Tier Employee Directory Web Application** on AWS — fully automated via `.tf` files.
+This project provisions a [3-Tier Employee Directory Web Application](https://github.com/1suleyman/-Terraform-3-Tier-Employee-Directory-Web-Application) on AWS — fully automated via `.tf` files.
 
 Think of this as my **capstone Terraform project**: not just theory, but applied end-to-end with real debugging, pivots, and lessons learned.
 
