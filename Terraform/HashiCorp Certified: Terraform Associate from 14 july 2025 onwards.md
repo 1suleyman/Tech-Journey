@@ -57,39 +57,66 @@ Whether you're brand new to Terraform or brushing up for the cert, I hope these 
 
 ---
 
-## 💻 Hands-On Lab Project: Terraform-Powered Cloud Infrastructure (Coming Soon)
+## 💻 Hands-On Lab Project: Terraform-Powered 3-Tier Employee Directory
 
-Alongside the study notes, I’m building a real-world IaC project using Terraform.
+Alongside the study notes, I’m building a **real-world Infrastructure as Code (IaC) project** using Terraform.
+This project provisions a **3-Tier Employee Directory Web Application** on AWS — fully automated via `.tf` files.
 
-This hands-on lab walks through setting up a simple yet powerful infrastructure — fully deployed with Terraform. Think of it as my capstone project to tie everything together.
+Think of this as my **capstone Terraform project**: not just theory, but applied end-to-end with real debugging, pivots, and lessons learned.
 
-### 🌐 Project Use Case
-Deploy a **web app backend** on **AWS** using:
-- VPC with public/private subnets
-- EC2 instances
-- Security groups
-- S3 bucket
-- IAM roles
-- (Optional) RDS, Auto Scaling, or Load Balancer
+---
+
+## 🌐 Project Use Case
+
+Deploy a production-style web application on AWS using:
+
+* **VPC** with public/private subnets
+* **EC2** instances for compute (Flask + test web server)
+* **IAM** roles and policies for least-privilege access
+* **S3** for storing employee profile photos
+* **DynamoDB** for storing employee data
+* **Security groups** for tight traffic control
+* (Planned) **Load Balancer + Auto Scaling** for HA
+* (Planned) **API Gateway + Lambda** for serverless features
 
 ---
 
 ## 📋 Project Breakdown
 
-| 📦 Section | ✅ Status | 📎 Notes |
-|------------|-----------|----------|
-| Terraform Init + AWS Provider Setup | ❌ | _To be completed_ |
-| VPC and Networking Resources | ❌ | _To be completed_ |
-| EC2 + Security Groups | ❌ | _To be completed_ |
-| S3 Bucket with Lifecycle Rules | ❌ | _To be completed_ |
-| Output Variables & Remote State | ❌ | _To be completed_ |
-| Final Testing & Destroy Plan | ❌ | _To be completed_ |
+| 📦 Section                                 | ✅ Status    | 📎 Notes                                                                                                                                                                       |
+| ------------------------------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Module 0: Remote State (Bootstrap)**     | ✅ Completed | Created S3 bucket (`tf-state-employee-directory`) + DynamoDB table (`tf-state-locks`) manually. Verified backend config via `terraform init`.                                  |
+| **Module 1: IAM Setup + Provider Config**  | ✅ Completed | Added provider defaults (tags, region). Created `AdminUser`, `DevUser`, `EC2Admins` group, and `EmployeeWebAppRole`. Used workspaces for `dev`/`prod`.                         |
+| **Module 2: EC2 Deployment**               | ✅ Completed | Provisioned `t2.micro` with IAM profile + SG. Debugged subnet, IGW, and user\_data issues. Validated with static Apache page → `🎉 Hello from EC2!`.                           |
+| **Module 3: VPC & Networking**             | ✅ Completed | Built custom VPC `10.1.0.0/16` with 2 AZs, public/private subnets, IGW + route tables. Verified connectivity with EC2 test.                                                    |
+| **Module 4: S3 Storage Integration**       | ⚠️ Paused   | Created bucket `employee-photo-bucket-456s` with policy for EC2 role. Ran into Flask `user_data` script issues (yum vs dnf, port binding). Paused here to pivot learning time. |
+| **Module 5: DynamoDB Integration**         | ⏳ Planned   | Create `Employees` table. Connect app via env variables. Validate end-to-end CRUD.                                                                                             |
+| **Module 6: Load Balancer + Auto Scaling** | ⏳ Planned   | Add ALB with target groups + ASG scaling policies. Test CPU stress scaling.                                                                                                    |
+| **Module 7: Serverless Extension**         | ⏳ Planned   | API Gateway + Lambda function for contact form. Deploy as add-on service.                                                                                                      |
+| **Final Testing + Destroy Plan**           | ⏳ Planned   | Validate app end-to-end, snapshot final state, `terraform destroy` cleanup.                                                                                                    |
 
-As I complete each section, I’ll log:
-- Code samples
-- Screenshots of Terraform output
-- Gotchas + fixes
-- Lessons learned
+---
+
+## 📝 Logging Format
+
+For each module, I capture:
+
+* **Planned approach**
+* **Executed Terraform code + screenshots**
+* **Gotchas & fixes** (real debugging notes)
+* **Lessons learned**
+
+---
+
+## 🧠 Why This Matters
+
+This isn’t just about “getting Terraform working.”
+It’s about:
+
+* Practicing **real DevOps workflows** (IaC, version control, repeatable builds).
+* Documenting **debug pivots** (route blackholes, public IPs, yum vs dnf, etc.).
+* Building an **exam-ready foundation** for Terraform Associate.
+* Preparing for **real-world cloud engineer tasks** like HA networking, IAM least privilege, and scalable app design.
 
 ---
 
