@@ -1,6 +1,6 @@
-# ☁️ AWS Projects & Study Hub
+# ☁️ AWS Projects 
 
-Welcome to my **AWS learning and projects folder**!
+Welcome to my **AWS Projects folder**!
 
 Here, I document everything I’ve done in **AWS** — from hands-on labs to study notes for certifications — so you can follow along, learn from real examples, or just get inspired to try your own cloud projects.
 
@@ -8,7 +8,7 @@ Here, I document everything I’ve done in **AWS** — from hands-on labs to stu
 
 ## 🚀 What You'll Find Here
 
-This folder contains **all of my AWS-related projects, labs, and notes**, organized by practical use case and learning objective.
+This folder contains **all of my AWS-related projects and labs**, organized by practical use case and learning objective.
 
 ### 🗂️ Projects & Hands-On Labs
 
