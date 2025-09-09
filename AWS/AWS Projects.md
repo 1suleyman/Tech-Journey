@@ -1,7 +1,3 @@
-Got it! You want a **separate README just for your AWS folder** in your GitHub repo. I’ll structure it to be professional, visually clear, and project-focused, highlighting your hands-on projects, labs, and exam prep. Here’s a polished draft you can save as `AWS/README.md`:
-
----
-
 # ☁️ AWS Projects & Study Hub
 
 Welcome to my **AWS learning and projects folder**!
