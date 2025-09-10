@@ -23,6 +23,9 @@ This folder contains all of my AWS-related **projects and labs**, organized by p
 - **[📊 Netflix Data Visualizations with Amazon QuickSight](https://github.com/1suleyman/-Netflix-Data-Visualizations-with-Amazon-QuickSight)**  
   Analyzing datasets stored in S3 and creating interactive visual dashboards.
 
+- **[🛡️ AWS IAM Hands-On Lab: NextWork Intern Onboarding](https://github.com/1suleyman/-AWS-IAM-Hands-On-Lab-NextWork-Intern-Onboarding/blob/main/README.md)**  
+  Onboarding new intern onto AWS environment while securely managing access to development and production resources.
+
 ---
 
 ## 💡 How to Use This Folder
