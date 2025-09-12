@@ -1,7 +1,3 @@
-Perfect 👍 I’ll extend the README with a clear **Explanation** section so it reads more like a mini-tutorial. Here’s the improved version:
-
----
-
 # 📝 Practice Modifying Object Attributes and Calling Methods
 
 In this exercise, we practiced how to **create a table object, add columns, and call methods** using the `PrettyTable` Python library.
