@@ -14,12 +14,11 @@ This folder contains all of my **Terraform-related projects and labs**, organize
 
 ## 🗂️ Projects & Hands-On Labs
 
-- [🧑‍💻 Terraform 3-Tier Employee Directory Web Application](https://github.com/1suleyman/-Terraform-3-Tier-Employee-Directory-Web-Application)
+- **[🧑‍💻 Terraform 3-Tier Employee Directory Web Application](https://github.com/1suleyman/-Terraform-3-Tier-Employee-Directory-Web-Application)**
 
-- [🌌 Hosting My Space Invaders Game on Amazon S3 with Terraform](https://github.com/1suleyman/-Hosting-My-Space-Invaders-Game-on-Amazon-S3-with-Terraform)
+- **[🌌 Hosting My Space Invaders Game on Amazon S3 with Terraform](https://github.com/1suleyman/-Hosting-My-Space-Invaders-Game-on-Amazon-S3-with-Terraform)**
 
-- [🧑‍💻 Terraform AWS IAM Hands-On Lab: NextWork Intern Onboarding](https://github.com/1suleyman/-Terraform-AWS-IAM-Hands-On-Lab-NextWork-Intern-Onboarding/tree/main)
-
+- **[🧑‍💻 Terraform AWS IAM Hands-On Lab: NextWork Intern Onboarding](https://github.com/1suleyman/-Terraform-AWS-IAM-Hands-On-Lab-NextWork-Intern-Onboarding/tree/main)**
   A fully codified Terraform lab to onboard a new intern into AWS
 
 ---
