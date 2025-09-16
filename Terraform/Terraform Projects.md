@@ -19,7 +19,7 @@ This folder contains all of my **Terraform-related projects and labs**, organize
 - **[🌌 Hosting My Space Invaders Game on Amazon S3 with Terraform](https://github.com/1suleyman/-Hosting-My-Space-Invaders-Game-on-Amazon-S3-with-Terraform)**
 
 - **[🧑‍💻 Terraform AWS IAM Hands-On Lab: NextWork Intern Onboarding](https://github.com/1suleyman/-Terraform-AWS-IAM-Hands-On-Lab-NextWork-Intern-Onboarding/tree/main)**
-  A fully codified Terraform lab to onboard a new intern into AWS
+    A fully codified Terraform lab to onboard a new intern into AWS
 
 ---
 
