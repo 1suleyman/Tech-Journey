@@ -26,6 +26,11 @@ This folder contains all of my AWS-related **projects and labs**, organized by p
 - **[🛡️ AWS IAM Hands-On Lab: NextWork Intern Onboarding](https://github.com/1suleyman/-AWS-IAM-Hands-On-Lab-NextWork-Intern-Onboarding/blob/main/README.md)**  
   Onboarding new intern onto AWS environment while securely managing access to development and production resources.
 
+### Networking 
+
+- **[🌐 My AWS VPC, Subnet, and Internet Gateway Hands-On Lab](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-/tree/main)**  
+  Creating a VPC, configure subnets, and attach an internet gateway to connect resources to the internet.
+
 ---
 
 ## 💡 How to Use This Folder
