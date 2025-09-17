@@ -29,10 +29,10 @@ This folder contains all of my AWS-related **projects and labs**, organized by p
 ### Networking 
 
 - **[🌐 My AWS VPC, Subnet, and Internet Gateway Hands-On Lab](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-/tree/main)**  
-  Creating a VPC, configure subnets, and attach an internet gateway to connect resources to the internet.
+  Creating a VPC, configure subnets, and attach an internet gateway to connect resources to the internet. (Part 1 in the networking series)
 
 - **[🌐 My AWS Public Subnet, Route Table, Security Group, and Network ACL Hands-On Lab](https://github.com/1suleyman/-AWS-public-subnet-route-table-security-group-and-network-ACL-Hands-On-Lab/tree/main)**  
-  Creating a secure VPC on AWS with a public subnet, route table, security group, and network ACL.
+  Creating a secure VPC on AWS with a public subnet, route table, security group, and network ACL. (Part 2 in the networking series)
 
 
 ---
