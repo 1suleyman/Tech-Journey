@@ -30,11 +30,11 @@ This folder contains all of my **Terraform-related projects and labs**, organize
 
 - **[🌐 AWS VPC, Subnet, and Internet Gateway Hands-On Lab (Terraform Version)](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-Terraform-Version-)**  
 
-  Creating a VPC, configure subnets, and attach an internet gateway to connect resources to the internet.
+  Creating a VPC, configure subnets, and attach an internet gateway to connect resources to the internet. **Part 1 of the networking series**
 
 - **[🌐 My AWS Public Subnet, Route Table, Security Group, and Network ACL with Terraform](https://github.com/1suleyman/-My-AWS-Public-Subnet-Route-Table-Security-Group-and-Network-ACL-with-Terraform)**  
 
-  Provisioning a public subnet, route table, security group, and network ACL — all declaratively. 
+  Provisioning a public subnet, route table, security group, and network ACL — all declaratively. **Part 2 of the networking series**
 
 ---
 
