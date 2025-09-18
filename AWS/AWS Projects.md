@@ -26,7 +26,7 @@ This folder contains all of my AWS-related **projects and labs**, organized by p
 - **[🛡️ AWS IAM Hands-On Lab: NextWork Intern Onboarding](https://github.com/1suleyman/-AWS-IAM-Hands-On-Lab-NextWork-Intern-Onboarding/blob/main/README.md)**  
   Onboarding new intern onto AWS environment while securely managing access to development and production resources.
 
-### Networking 
+### Networking Series
 
 - **[🌐 My AWS VPC, Subnet, and Internet Gateway Hands-On Lab](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-/tree/main)**  
   Creating a VPC, configure subnets, and attach an internet gateway to connect resources to the internet. (Part 1 in the networking series)
@@ -34,6 +34,7 @@ This folder contains all of my AWS-related **projects and labs**, organized by p
 - **[🌐 My AWS Public Subnet, Route Table, Security Group, and Network ACL Hands-On Lab](https://github.com/1suleyman/-AWS-public-subnet-route-table-security-group-and-network-ACL-Hands-On-Lab/tree/main)**  
   Creating a secure VPC on AWS with a public subnet, route table, security group, and network ACL. (Part 2 in the networking series)
 
+**🔄 Note**: After completing Part 2 of the networking series, I decided to fully pivot to using [Terraform only](https://github.com/1suleyman/Tech-Journey/blob/main/Terraform/Terraform%20Projects.md) for the remaining labs. While the earlier parts of the series included both AWS Console and Terraform versions, all future networking projects will be 100% Infrastructure as Code — to keep things consistent, scalable, and aligned with industry best practices.
 
 ---
 
