@@ -36,6 +36,10 @@ This folder contains all of my **Terraform-related projects and labs**, organize
 
   Provisioning a public subnet, route table, security group, and network ACL — all declaratively. **Part 2 of the networking series**
 
+- **[🌐 My AWS Private Subnet, Private Route Table, and Private Network ACL with Terraform](https://github.com/1suleyman/-My-AWS-Private-Subnet-Private-Route-Table-and-Private-Network-ACL-with-Terraform/tree/main?tab=readme-ov-file)**  
+
+  Creating a private subnet, private route table, and private network ACL. **Part 3 of the networking series**
+
 ---
 
 ## 💡 How to Use This Folder
