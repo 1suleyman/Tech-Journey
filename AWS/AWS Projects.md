@@ -28,13 +28,17 @@ This folder contains all of my AWS-related **projects and labs**, organized by p
 
 ### Networking Series
 
-- **[🌐 My AWS VPC, Subnet, and Internet Gateway Hands-On Lab](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-/tree/main)**  
-  Creating a VPC, configure subnets, and attach an internet gateway to connect resources to the internet. (Part 1 in the networking series)
+* **[🌐 My AWS VPC, Subnet, and Internet Gateway Hands-On Lab](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-/tree/main)**
+  Creating a VPC, configuring subnets, and attaching an internet gateway to connect resources to the internet. (Part 1 in the networking series)
 
-- **[🌐 My AWS Public Subnet, Route Table, Security Group, and Network ACL Hands-On Lab](https://github.com/1suleyman/-AWS-public-subnet-route-table-security-group-and-network-ACL-Hands-On-Lab/tree/main)**  
+* **[🌐 My AWS Public Subnet, Route Table, Security Group, and Network ACL Hands-On Lab](https://github.com/1suleyman/-AWS-public-subnet-route-table-security-group-and-network-ACL-Hands-On-Lab/tree/main)**
   Creating a secure VPC on AWS with a public subnet, route table, security group, and network ACL. (Part 2 in the networking series)
 
-**🔄 Note**: After completing Part 2 of the networking series, I decided to fully pivot to using [Terraform only](https://github.com/1suleyman/Tech-Journey/blob/main/Terraform/Terraform%20Projects.md) for the remaining labs. While the earlier parts of the series included both AWS Console and Terraform versions, all future networking projects will be 100% Infrastructure as Code — to keep things consistent, scalable, and aligned with industry best practices.
+* **[🌐 My AWS EC2 Launch Lab with Public and Private Subnets](https://github.com/1suleyman/-My-AWS-EC2-Launch-Lab-with-Public-and-Private-Subnets/blob/main/README.md)**
+  For Part 4, I temporarily switched back to the AWS Console to explore the **VPC resource map diagram**, which visually shows the relationships between public/private subnets, route tables, and internet gateways.
+  This hands-on console walkthrough helped me understand how all components interact. After completing this, I am now **resuming Terraform** to automate EC2 deployment and any remaining networking tasks.
+
+**🔄 Note**: After Part 2, I initially pivoted fully to [Terraform only](https://github.com/1suleyman/Tech-Journey/blob/main/Terraform/Terraform%20Projects.md) for the labs. Part 4 was a brief exception to get a visual overview of the VPC. All future networking projects will now continue **100% via Terraform**, keeping everything reproducible, scalable, and aligned with industry best practices.
 
 ---
 
