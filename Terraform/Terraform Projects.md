@@ -40,6 +40,10 @@ This folder contains all of my **Terraform-related projects and labs**, organize
 
   Creating a private subnet, private route table, and private network ACL. **Part 3 of the networking series**
 
+- **[🌐 My AWS EC2 Launch Lab with Public and Private Subnets (Terraform](https://github.com/1suleyman/-My-AWS-EC2-Launch-Lab-with-Public-and-Private-Subnets-Terraform-/tree/main?tab=readme-ov-file#-my-aws-ec2-launch-lab-with-public-and-private-subnets-terraform)**  
+
+  Provisioning a public subnet, private subnet, route tables, internet gateway, security groups, network ACLs, and EC2 instances **Part 4 of the networking series**
+
 ---
 
 ## 💡 How to Use This Folder
