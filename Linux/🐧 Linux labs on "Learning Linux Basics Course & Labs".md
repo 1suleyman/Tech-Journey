@@ -19,6 +19,7 @@ Each lab is documented in its own folder with a README containing:
 | Challenge | Title        | Link                                | Key Skill                   |
 | --------- | ------------ | ----------------------------------- | --------------------------- |
 | 1         | 🌐 Linux Shell Challenge: Creating and Managing Directories | [📂 Repo](https://github.com/1suleyman/-Linux-Shell-Challenge-Creating-and-Managing-Directories/tree/main) | Directory navigation, mkdir -p, mv, rm -r, absolute vs relative paths |
+| 2         | 🐧 Linux Shell Challenge: Bash Prompt, Environment Variables, and Aliases | [📂 Repo](https://github.com/1suleyman/-Linux-Shell-Challenge-Bash-Prompt-Environment-Variables-and-Aliases/tree/main) | Shell customization, environment variables, aliases, PS1 prompt, profile scripts |
 
 ### 🔹 Module 2: Linux Core Concepts
 
