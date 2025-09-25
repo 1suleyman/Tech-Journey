@@ -18,7 +18,7 @@ Each lab is documented in its own folder with a README containing:
 
 | Challenge | Title        | Link                                | Key Skill                   |
 | --------- | ------------ | ----------------------------------- | --------------------------- |
-| 1         | Coming soon… | [📂 Folder](./Module-1/Challenge-1) | e.g. Navigating directories |
+| 1         | 🌐 Linux Shell Challenge: Creating and Managing Directories | [📂 Folder](https://github.com/1suleyman/-Linux-Shell-Challenge-Creating-and-Managing-Directories/tree/main) | Directory navigation, mkdir -p, mv, rm -r, absolute vs relative paths |
 
 ### 🔹 Module 2: Linux Core Concepts
 
