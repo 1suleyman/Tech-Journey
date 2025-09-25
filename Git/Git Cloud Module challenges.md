@@ -18,7 +18,7 @@ Each challenge is documented in its own repo with a README containing:
 
 | Challenge | Title                                            | Link                                           | Key Skill                         |
 | --------- | ------------------------------------------------ | ---------------------------------------------- | --------------------------------- |
-| 1         | Setting up a Bare Repository on a Storage Server | [Challenge 1]([./level-1/challenge-1/README.md](https://github.com/1suleyman/-Git-Cloud-Module-Challenge-Setting-up-a-Bare-Repository-on-a-Storage-Server)) | SSH, Git install, bare repo setup |
+| 1         | Setting up a Bare Repository on a Storage Server | [Challenge 1](https://github.com/1suleyman/-Git-Cloud-Module-Challenge-Setting-up-a-Bare-Repository-on-a-Storage-Server) | SSH, Git install, bare repo setup |
 | 2         | *Coming soon…*                                   |                                                |                                   |
 | 3         | *Coming soon…*                                   |                                                |                                   |
 
