@@ -14,7 +14,7 @@ Each challenge is documented in its own folder with a README containing:
 
 ## 🗂️ Challenge Index
 
-### 🔹 Level 1: Getting Started with Git
+### 🔹 Level 1
 
 | Challenge | Title                                            | Link                                           | Key Skill                         |
 | --------- | ------------------------------------------------ | ---------------------------------------------- | --------------------------------- |
@@ -24,7 +24,7 @@ Each challenge is documented in its own folder with a README containing:
 
 ---
 
-### 🔹 Level 2: Intermediate Git Workflows
+### 🔹 Level 2
 
 | Challenge | Title          | Link | Key Skill |
 | --------- | -------------- | ---- | --------- |
@@ -34,7 +34,7 @@ Each challenge is documented in its own folder with a README containing:
 
 ---
 
-### 🔹 Level 3: Advanced Git Concepts
+### 🔹 Level 3
 
 | Challenge | Title          | Link | Key Skill |
 | --------- | -------------- | ---- | --------- |
@@ -44,7 +44,7 @@ Each challenge is documented in its own folder with a README containing:
 
 ---
 
-### 🔹 Level 4: Expert Git Scenarios
+### 🔹 Level 4
 
 | Challenge | Title          | Link | Key Skill |
 | --------- | -------------- | ---- | --------- |
