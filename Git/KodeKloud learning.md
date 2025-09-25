@@ -3,7 +3,7 @@
 Welcome to my **Git Cloud Module** learning journey!
 This repo tracks my progress through the different levels of Git challenges (Levels 1–4).
 
-Each challenge is documented in its own folder with a README containing:
+Each challenge is documented in its own repo with a README containing:
 
 * Step-by-step commands
 * Screenshots
