@@ -33,7 +33,7 @@ Each lab is documented in its own folder with a README containing:
 | Challenge | Title        | Link                                | Key Skill                |
 | --------- | ------------ | ----------------------------------- | ------------------------ |
 | 1         | 🐧 Linux YUM and RPM Lab | [📂 Repo](https://github.com/1suleyman/-Linux-YUM-and-RPM-Lab/tree/main) | RPM vs YUM, package queries, software installation, repos, dependency resolution |
-| 2         | Coming soon… | [📂 Repo](./Module-4/Challenge-1) | e.g .... |
+| 2         | 🐧 Linux DPKG and APT Lab | [📂 Repo](https://github.com/1suleyman/-Linux-DPKG-and-APT-Lab/tree/main) | DPKG vs APT, package installs, apt search, dependency handling, safe removal |
 
 ### 🔹 Module 4: Working with Shell - II
 
