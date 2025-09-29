@@ -26,7 +26,9 @@ Each lab is documented in its own folder with a README containing:
 | Challenge | Title        | Link                                | Key Skill               |
 | --------- | ------------ | ----------------------------------- | ----------------------- |
 | 1         | 🐧 Linux Kernel & Block Device Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Kernel-Block-Device-Lab/tree/main) | Kernel versioning, dmesg logs, lsblk usage, disk vs partition analysis |
-| 2         | Coming soon... | [📂 Repo](...) |  |
+| 2         | 🐧 Linux Kernel Modules, Boot, and File Types Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Kernel-Modules-Boot-and-File-Types-Lab/tree/main) | Init systems, systemctl targets, file types, /opt usage, lsblk, lspci hardware info |
+| 3         | Coming soon… | [📂 Folder](...) | e.g. blah blah |
+
 
 ### 🔹 Module 3: Package Management
 
