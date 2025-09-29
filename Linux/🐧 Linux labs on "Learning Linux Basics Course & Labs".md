@@ -25,7 +25,8 @@ Each lab is documented in its own folder with a README containing:
 
 | Challenge | Title        | Link                                | Key Skill               |
 | --------- | ------------ | ----------------------------------- | ----------------------- |
-| 1         | Coming soon… | [📂 Folder](./Module-2/Challenge-1) | e.g. File system basics |
+| 1         | 🐧 Linux Kernel & Block Device Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Kernel-Block-Device-Lab/tree/main) | Kernel versioning, dmesg logs, lsblk usage, disk vs partition analysis |
+| 2         | Coming soon... | [📂 Repo](...) |  |
 
 ### 🔹 Module 3: Package Management
 
