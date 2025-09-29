@@ -6,7 +6,6 @@ This repository documents my progress through the **Linux Basics Course & Labs**
 Each lab is documented in its own folder with a README containing:
 
 * ✅ Step-by-step commands
-* 📸 Screenshots of outputs
 * 🐛 Troubleshooting notes
 * 💡 Key takeaways
 
