@@ -46,7 +46,8 @@ Each lab is documented in its own folder with a README containing:
 
 | Challenge | Title        | Link                                | Key Skill                  |
 | --------- | ------------ | ----------------------------------- | -------------------------- |
-| 1         | Coming soon… | [📂 Folder](./Module-5/Challenge-1) | e.g. Checking connectivity |
+| 1         | 🌐 Linux DNS Lab | [📂 Repo](https://github.com/1suleyman/-Linux-DNS-Lab/tree/main) | DNS config files, resolv.conf, hosts, nsswitch.conf, resolution order, search domains |
+| 2         | Coming soon… | [📂 Folder](./Module-6/Challenge-1) | e.g. ... |
 
 ### 🔹 Module 6: Security and File Permissions
 
