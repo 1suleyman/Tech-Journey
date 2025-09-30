@@ -40,7 +40,7 @@ Each lab is documented in its own folder with a README containing:
 | Challenge | Title        | Link                                | Key Skill                 |
 | --------- | ------------ | ----------------------------------- | ------------------------- |
 | 1         | 🐧 Linux Shell Lab 2 – File Management & Redirection | [📂 Repo](https://github.com/1suleyman/-Linux-Shell-Lab-2-File-Management-Redirection/tree/main) | sudo usage, tar/gzip, gunzip, find, grep -R, file redirection (> , 2>) |
-| 2         | ... | [📂 Repo](...) | e.g ... |
+| 2         | 📝 Linux VI Editor Lab | [📂 Repo](https://github.com/1suleyman/-Linux-VI-Editor-Lab/tree/main) | vi/vim basics, command vs insert mode, :wq/:q!, yy, dd, p, line navigation |
 
 ### 🔹 Module 5: Networking
 
