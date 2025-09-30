@@ -39,7 +39,8 @@ Each lab is documented in its own folder with a README containing:
 
 | Challenge | Title        | Link                                | Key Skill                 |
 | --------- | ------------ | ----------------------------------- | ------------------------- |
-| 1         | Coming soon… | [📂 Folder](./Module-4/Challenge-1) | e.g. Advanced shell usage |
+| 1         | 🐧 Linux Shell Lab 2 – File Management & Redirection | [📂 Repo](https://github.com/1suleyman/-Linux-Shell-Lab-2-File-Management-Redirection/tree/main) | sudo usage, tar/gzip, gunzip, find, grep -R, file redirection (> , 2>) |
+| 2         | ... | [📂 Repo](...) | e.g ... |
 
 ### 🔹 Module 5: Networking
 
