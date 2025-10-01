@@ -53,23 +53,24 @@ Each lab is documented in its own folder with a README containing:
 
 | Challenge | Title        | Link                                | Key Skill         |
 | --------- | ------------ | ----------------------------------- | ----------------- |
-| 1         | Coming soon… | [📂 Folder](./Module-6/Challenge-1) | e.g. chmod, chown |
+| 1         | 🐧 Linux Account Management Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Account-Management-Lab/tree/main) | useradd, groupadd, id, sudoers, passwd, UID/GID management, /etc files |
+| 2         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
 
 ### 🔹 Module 7: Service Management
 
 | Challenge | Title        | Link                                | Key Skill             |
 | --------- | ------------ | ----------------------------------- | --------------------- |
-| 1         | Coming soon… | [📂 Folder](./Module-7/Challenge-1) | e.g. systemctl basics |
+| 1         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. systemctl basics |
 
 ### 🔹 Module 8: Storage in Linux
 
 | Challenge | Title        | Link                                | Key Skill            |
 | --------- | ------------ | ----------------------------------- | -------------------- |
-| 1         | Coming soon… | [📂 Folder](./Module-8/Challenge-1) | e.g. Disk partitions |
+| 1         | Coming soon… | [📂 Repo](./Module-8/Challenge-1) | e.g. Disk partitions |
 
 ### 🔹 Module 9: The Client Demonstration
 
 | Challenge | Title        | Link                                | Key Skill            |
 | --------- | ------------ | ----------------------------------- | -------------------- |
-| 1         | Coming soon… | [📂 Folder](./Module-9/Challenge-1) | e.g. .... |
+| 1         | Coming soon… | [📂 Repo](./Module-9/Challenge-1) | e.g. .... |
 
