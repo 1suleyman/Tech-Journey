@@ -54,7 +54,10 @@ Each lab is documented in its own folder with a README containing:
 | Challenge | Title        | Link                                | Key Skill         |
 | --------- | ------------ | ----------------------------------- | ----------------- |
 | 1         | 🐧 Linux Account Management Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Account-Management-Lab/tree/main) | useradd, groupadd, id, sudoers, passwd, UID/GID management, /etc files |
-| 2         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
+| 2         | 🐧 Linux Permissions & Ownership Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Permissions-Ownership-Lab/tree/main) | chmod, chown, rwx permissions, ownership, recursive updates (-R) |
+| 3         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
+| 4         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
+| 5         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
 
 ### 🔹 Module 7: Service Management
 
