@@ -47,7 +47,7 @@ Each lab is documented in its own folder with a README containing:
 | Challenge | Title        | Link                                | Key Skill                  |
 | --------- | ------------ | ----------------------------------- | -------------------------- |
 | 1         | 🌐 Linux DNS Lab | [📂 Repo](https://github.com/1suleyman/-Linux-DNS-Lab/tree/main) | DNS config files, resolv.conf, hosts, nsswitch.conf, resolution order, search domains |
-| 2         | Coming soon… | [📂 Folder](./Module-6/Challenge-1) | e.g. ... |
+| 2         | 🌐 Linux Network Basics Lab| [📂 Repo](https://github.com/1suleyman/-Linux-Network-Basics-Lab/tree/main) | ip addr, ip route, ip link, ping, telnet, SSH troubleshooting |
 
 ### 🔹 Module 6: Security and File Permissions
 
