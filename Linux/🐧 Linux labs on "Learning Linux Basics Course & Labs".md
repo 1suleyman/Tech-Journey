@@ -67,3 +67,9 @@ Each lab is documented in its own folder with a README containing:
 | --------- | ------------ | ----------------------------------- | -------------------- |
 | 1         | Coming soon… | [📂 Folder](./Module-8/Challenge-1) | e.g. Disk partitions |
 
+### 🔹 Module 9: The Client Demonstration
+
+| Challenge | Title        | Link                                | Key Skill            |
+| --------- | ------------ | ----------------------------------- | -------------------- |
+| 1         | Coming soon… | [📂 Folder](./Module-9/Challenge-1) | e.g. .... |
+
