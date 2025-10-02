@@ -57,7 +57,7 @@ Each lab is documented in its own folder with a README containing:
 | 2         | 🐧 Linux Permissions & Ownership Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Permissions-Ownership-Lab/tree/main) | chmod, chown, rwx permissions, ownership, recursive updates (-R) |
 | 3         | 🐧 Linux SSH & SCP Lab | [📂 Repo](https://github.com/1suleyman/-Linux-SSH-SCP-Lab/tree/main) | ssh basics, ssh-keygen, ssh-copy-id, authorized_keys, scp file transfer |
 | 4         | 🐧 Linux IPTables Lab | [📂 Repo](https://github.com/1suleyman/-Linux-IPTables-Lab) | iptables basics, firewall rules, INPUT/OUTPUT chains, allow vs drop, source/destination filtering |
-| 5         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
+| 5         | 🐧 Linux Cron Jobs Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Cron-Jobs-Lab/tree/main) | crontab -l, crontab -e, cron syntax, scheduling tasks, fixing misconfigured jobs |
 
 ### 🔹 Module 7: Service Management
 
