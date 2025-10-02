@@ -55,7 +55,7 @@ Each lab is documented in its own folder with a README containing:
 | --------- | ------------ | ----------------------------------- | ----------------- |
 | 1         | 🐧 Linux Account Management Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Account-Management-Lab/tree/main) | useradd, groupadd, id, sudoers, passwd, UID/GID management, /etc files |
 | 2         | 🐧 Linux Permissions & Ownership Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Permissions-Ownership-Lab/tree/main) | chmod, chown, rwx permissions, ownership, recursive updates (-R) |
-| 3         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
+| 3         | 🐧 Linux SSH & SCP Lab | [📂 Repo](https://github.com/1suleyman/-Linux-SSH-SCP-Lab/tree/main) | ssh basics, ssh-keygen, ssh-copy-id, authorized_keys, scp file transfer |
 | 4         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
 | 5         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. ... |
 
