@@ -63,7 +63,7 @@ Each lab is documented in its own folder with a README containing:
 
 | Challenge | Title        | Link                                | Key Skill             |
 | --------- | ------------ | ----------------------------------- | --------------------- |
-| 1         | Coming soon… | [📂 Repo](./Module-7/Challenge-1) | e.g. systemctl basics |
+| 1         | 🐧 Linux Systemd Services Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Systemd-Services-Lab/tree/main) | systemctl, service units, ExecStart, Restart=, enable on boot, journalctl troubleshooting |
 
 ### 🔹 Module 8: Storage in Linux
 
