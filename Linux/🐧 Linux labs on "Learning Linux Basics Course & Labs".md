@@ -77,5 +77,5 @@ Each lab is documented in its own folder with a README containing:
 
 | Challenge | Title        | Link                                | Key Skill            |
 | --------- | ------------ | ----------------------------------- | -------------------- |
-| 1         | Coming soon… | [📂 Repo](./Module-9/Challenge-1) | e.g. .... |
+| 1         | 🐧 Linux Final Troubleshooting Scenario Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Final-Troubleshooting-Scenario-Lab/tree/main) | scp, tar, PostgreSQL config, chown, manage.py, systemd service creation |
 
