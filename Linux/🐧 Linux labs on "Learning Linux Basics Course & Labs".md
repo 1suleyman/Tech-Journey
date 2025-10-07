@@ -71,7 +71,7 @@ Each lab is documented in its own folder with a README containing:
 | --------- | ------------ | ----------------------------------- | -------------------- |
 | 1         | 🐧 Linux Storage & Partitions Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Storage-Partitions-Lab/tree/main) | lsblk, gdisk, MBR vs GPT, major numbers, partition creation & verification |
 | 2         | 🐧 Linux File Systems Lab | [📂 Repo](https://github.com/1suleyman/-Linux-File-Systems-Lab/tree/main) | df -h, blkid, mkfs.ext4, mount, /etc/fstab persistence |
-| 3         | Coming soon… | [📂 Repo](./Module-8/Challenge-1) | e.g. .... |
+| 3         | 🐧 Linux Logical Volume Manager (LVM) Lab| [📂 Repo](https://github.com/1suleyman/-Linux-Logical-Volume-Manager-LVM-Lab/tree/main) | pvcreate, vgcreate, lvcreate, mkfs.ext4, mount, lvresize, resize2fs |
 
 ### 🔹 Module 9: The Client Demonstration
 
