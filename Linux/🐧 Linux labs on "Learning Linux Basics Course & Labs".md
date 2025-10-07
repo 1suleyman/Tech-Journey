@@ -70,7 +70,8 @@ Each lab is documented in its own folder with a README containing:
 | Challenge | Title        | Link                                | Key Skill            |
 | --------- | ------------ | ----------------------------------- | -------------------- |
 | 1         | 🐧 Linux Storage & Partitions Lab | [📂 Repo](https://github.com/1suleyman/-Linux-Storage-Partitions-Lab/tree/main) | lsblk, gdisk, MBR vs GPT, major numbers, partition creation & verification |
-| 2         | Coming soon… | [📂 Repo](./Module-8/Challenge-1) | e.g. .... |
+| 2         | 🐧 Linux File Systems Lab | [📂 Repo](https://github.com/1suleyman/-Linux-File-Systems-Lab/tree/main) | df -h, blkid, mkfs.ext4, mount, /etc/fstab persistence |
+| 3         | Coming soon… | [📂 Repo](./Module-8/Challenge-1) | e.g. .... |
 
 ### 🔹 Module 9: The Client Demonstration
 
