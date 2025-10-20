@@ -15,7 +15,7 @@ Each folder contains **hands-on labs**, **breakdowns**, and **notes** from my on
 
 ---
 
-## 🚀 **DevOps Pre-Requisites (KodeKloud)**
+## 🚀 **DevOps Pre-Requisites**
 
 📂 [**View Repository**](https://github.com/1suleyman/-DevOps-Pre-Requisites-Course/tree/main)
 
@@ -45,7 +45,7 @@ Build the **foundation every DevOps Engineer needs** — mastering Linux, Networ
 
 ---
 
-## 🐧 **Linux (KodeKloud Linux Learning Challenges)**
+## 🐧 **Linux **
 
 📂 [**View Repository**](https://github.com/1suleyman/Linux-Learning-Challenges)
 
