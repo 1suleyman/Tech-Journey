@@ -1,54 +1,200 @@
-# 💻 Tech-Journey
+# 💻 **Tech-Journey**
 
 Hey everyone 👋
 
-Welcome to **Tech-Journey** — this is where I document my personal deep-dive into the world of tech, one project and one blog post at a time.
+Welcome to **Tech-Journey** — this is where I document my personal deep-dive into the world of technology, one **project**, **lab**, and **blog-style note** at a time.
 
-Whether you’re just getting started, prepping for certifications, or building up your portfolio — I hope this repo can serve as a helpful companion or even a spark of motivation 🔥
-
----
-
-## 🚀 What You'll Find Here
-
-This repo is organized by topic — each folder contains blog-style breakdowns, mini-labs, and notes from my study journey.
-
-| 📁 Folder                                            | 🌟 What's Inside                                                                                                                                                                                                                                                                                                                                                  |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**DevOps Pre-Requisites**](https://github.com/1suleyman/-DevOps-Pre-Requisites-Course/tree/main) | My complete foundation course from KodeKloud covering: <br> • Linux, networking, web servers, and databases <br> • Git and version control basics <br> • Application deployment and security fundamentals <br> • 2-tier app setup (web + database) <br> • The perfect starting point for the DevOps learning path                                                 |
-| [**Linux**](./Linux)                                 | My foundational notes for Linux and networking: <br> • Terminal navigation, file operations, and bash scripting basics <br> • Clear explanations of permissions, users, groups, and shell utilities <br> • Networking essentials (IP, DNS, routing, OSI model) <br> • Mini-labs and walkthroughs to build command-line confidence                                 |
-| [**Git**](./Git)                                     | My personal Git reference vault, filled with: <br> • Bite-sized notes and real-world command examples <br> • Mini-labs on branching, merging, undoing mistakes, and remote workflows <br> • Step-by-step guides for going from local repo to GitHub <br> • Clear explanations of GitHub Flow, collaboration, and recovery commands                                |
-| [**AWS**](./AWS)                                     | My hands-on AWS projects and study notes, including: <br> • 3-Tier Employee Directory Web App (EC2, S3, DynamoDB) <br> • Custom VPC networking, IAM roles, and security setup <br> • Load Balancer + Auto Scaling with health checks <br> • Monitoring, troubleshooting, and scaling simulations <br> • Notes for the AWS Certified Cloud Practitioner (CCP) exam |
-| [**Azure**](./Azure)                                 | My journey into Microsoft Azure: <br> • Infrastructure-as-Code with **Bicep** <br> • Virtual networks, subnets, and NSGs <br> • Microsoft Entra ID (formerly Azure AD) <br> • App Services, storage accounts, and hybrid connectivity <br> • Notes aligned with **AZ-104 Azure Administrator** certification                                                      |
-| [**Terraform**](./Terraform)                         | My learning vault for the HashiCorp Certified: Terraform Associate exam: <br> • Blog-style breakdowns of Terraform concepts in plain English <br> • Real-world analogies, visuals, and hands-on examples <br> • Notes on providers, state, variables, outputs, and modules <br> • Hands-on IaC project deploying AWS infrastructure with Terraform                |
-| [**Kubernetes**](./Kubernetes)                       | My container orchestration notes and labs: <br> • Understanding Pods, Deployments, and Services <br> • YAML manifests and `kubectl` commands <br> • Mini-projects with local clusters (Minikube) <br> • Real-world DevOps deployment workflows coming soon…                                                                                                       |
+Whether you’re just getting started, prepping for certifications, or building your own portfolio — I hope this repo serves as a roadmap, a reference, or even a spark of motivation 🔥
 
 ---
 
-## 📌 Why I'm Doing This
+## 🚀 **What You'll Find Here**
+
+This repository is organized by topic.
+Each folder contains **hands-on labs**, **breakdowns**, and **notes** from my ongoing study journey — covering everything from **Linux** to **AWS**, **Azure**, **Terraform**, and beyond.
+
+---
+
+## 🚀 **DevOps Pre-Requisites (KodeKloud)**
+
+📂 [**View Repository**](https://github.com/1suleyman/-DevOps-Pre-Requisites-Course/tree/main)
+
+Build the **foundation every DevOps Engineer needs** — mastering Linux, Networking, Applications, Git, Web Servers, Databases, Security, and 2-Tier Architecture before diving into advanced tools like Docker, Kubernetes, and Terraform.
+
+### 🧩 **Key Modules & Labs**
+
+* **Module 1 – Linux Basics** → Command-line mastery, VI editor, package & service management
+* **Module 2 – Networking Basics** → IP configuration, routing, DNS resolution
+* **Module 3 – Applications Basics** → Java (JDK + Maven), Node.js, and Python setup
+* **Module 4 – Source Control (Git)** → Repository creation, commits, and remote sync
+* **Module 5 – Web Server Setup** → Apache HTTPD, Tomcat 11, Flask, and Node.js Express deployment
+* **Module 6 – Database Basics** → MySQL and MongoDB installation & management
+* **Module 7 – Security Fundamentals** → SSL/TLS basics and certificate management
+* **Module 8 – General Pre-Requisites** → YAML and JSONPath hands-on labs
+* **Module 9 – 2-Tier Applications** → Linking web and database tiers *(coming soon)*
+* **Module 10 – Lab Setup & Troubleshooting** → Environment and SSH configuration *(coming soon)*
+
+### 💡 **What I Gained**
+
+🐧 Strong Linux & Networking foundation
+🌍 Fluency in Git and version control
+⚙️ Confidence in application deployment & service management
+💾 Database administration basics
+🔒 Understanding of security and SSL/TLS principles
+🏗️ Practical exposure to multi-tier architectures
+
+---
+
+## 🐧 **Linux (KodeKloud Linux Learning Challenges)**
+
+📂 [**View Repository**](https://github.com/1suleyman/Linux-Learning-Challenges)
+
+Build rock-solid command-line confidence and understand how Linux works under the hood — from shell navigation and networking to file permissions, security, and service management.
+
+Each lab focuses on *real-world scenarios* that strengthen your foundations for DevOps, Cloud, and Infrastructure roles.
+
+### 🧩 **Key Modules & Labs**
+
+* **Module 1 – Working with Shell I**
+
+  * 🌐 *Creating and Managing Directories*
+  * 🐧 *Bash Prompt, Environment Variables, and Aliases*
+
+* **Module 2 – Linux Core Concepts**
+
+  * 🐧 *Linux Kernel & Block Device Lab*
+  * 🐧 *Linux Kernel Modules, Boot, and File Types Lab*
+
+* **Module 3 – Package Management**
+
+  * 🐧 *Linux YUM and RPM Lab*
+  * 🐧 *Linux DPKG and APT Lab*
+
+* **Module 4 – Working with Shell II**
+
+  * 🐧 *File Management & Redirection*
+  * 📝 *VI Editor Lab*
+
+* **Module 5 – Networking**
+
+  * 🌐 *Linux DNS Lab*
+  * 🌐 *Linux Network Basics Lab*
+
+* **Module 6 – Security & File Permissions**
+
+  * 🐧 *Account Management Lab*
+  * 🐧 *Permissions & Ownership Lab*
+  * 🐧 *SSH & SCP Lab*
+  * 🐧 *IPTables Lab*
+  * 🐧 *Cron Jobs Lab*
+
+* **Module 7 – Service Management**
+
+  * 🐧 *Systemd Services Lab*
+
+* **Module 8 – Storage in Linux**
+
+  * 🐧 *Storage & Partitions Lab*
+  * 🐧 *File Systems Lab*
+  * 🐧 *Logical Volume Manager (LVM) Lab*
+
+* **Module 9 – The Client Demonstration**
+
+  * 🐧 *Final Troubleshooting Scenario Lab*
+
+---
+
+### 💡 **What I Gained**
+
+* 🧠 Deep understanding of Linux internals and system management
+* ⚙️ Confidence with command-line utilities and automation
+* 🔒 Practical security, firewall, and permissions experience
+* 🗄️ Storage, partitions, and LVM management
+* 🌐 Networking, DNS, and service troubleshooting fundamentals
+
+---
+
+## 🌱 **Git**
+
+My personal Git reference vault, filled with:
+
+* Bite-sized notes & real-world command examples
+* Labs on branching, merging, undoing mistakes, and remote workflows
+* Step-by-step guides for going from local repo → GitHub
+* Clear explanations of GitHub Flow, collaboration & recovery commands
+
+---
+
+## ☁️ **AWS**
+
+Hands-on AWS projects & study notes, including:
+
+* **3-Tier Employee Directory Web App** (EC2, S3, DynamoDB)
+* Custom VPC networking, IAM roles, and security setup
+* Load Balancer + Auto Scaling with health checks
+* Monitoring, troubleshooting, and scaling simulations
+* Notes aligned with the **AWS Certified Cloud Practitioner (CCP)** exam
+
+---
+
+## 🔷 **Azure**
+
+My journey into **Microsoft Azure**:
+
+* Infrastructure-as-Code with **Bicep**
+* Virtual networks, subnets, and NSGs
+* **Microsoft Entra ID** (formerly Azure AD)
+* App Services, Storage Accounts, and Hybrid Connectivity
+* Notes aligned with the **AZ-104 Azure Administrator** certification
+
+---
+
+## 🌍 **Terraform**
+
+My learning vault for the **HashiCorp Certified: Terraform Associate** exam:
+
+* Blog-style breakdowns of Terraform concepts in plain English
+* Real-world analogies, visuals, and hands-on examples
+* Deep dives into providers, state, variables, outputs, and modules
+* IaC project deploying AWS infrastructure with Terraform
+
+---
+
+## 🧩 **Kubernetes**
+
+My container orchestration notes and labs:
+
+*  *(coming soon…)*
+
+---
+
+## 📌 **Why I'm Doing This**
 
 I wanted a space where I could:
 
-* Document what I’m learning in a way that actually makes sense to *me*
-* Break down complex topics with analogies and real examples
+* Document what I’m learning in a way that actually makes sense to me
+* Break down complex topics with analogies and real-world examples
 * Keep everything version-controlled and easy to update
 * Share the journey publicly in case it helps someone else 👇
 
 ---
 
-## 🗂️ What's Next?
+## 🗂️ **What's Next**
 
-Soon I’ll be adding new folders and content for:
+Coming soon to this repo:
 
-* **PowerShell**
-* **CI/CD with GitHub Actions & Pipelines**
+* PowerShell Basics
+* CI/CD with GitHub Actions & Pipelines
+* Docker Fundamentals
+* Advanced Kubernetes Deployments
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 **Let’s Connect**
 
-If you’re on a similar journey, I’d love to learn together — feel free to reach out on:
+If you’re on a similar journey, let’s learn together!
 
-* 💼 [LinkedIn – Suleyman Mohamud](https://www.linkedin.com/in/suleyman-m-a74768221)
-* 🧠 [Dev.to – @1suleyman](https://dev.to/1suleyman)
+💼 **LinkedIn:** [Suleyman Mohamud](https://www.linkedin.com/in/suleymanmohamud)
+🧠 **Dev.to:** [@1suleyman](https://dev.to/1suleyman)
 
-🌱 **Happy learning & building!** ✨
+🌱 **Happy Learning & Building! ✨**
