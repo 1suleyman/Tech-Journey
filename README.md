@@ -45,7 +45,7 @@ Build the **foundation every DevOps Engineer needs** — mastering Linux, Networ
 
 ---
 
-## 🐧 **Linux **
+## 🐧 **Linux**
 
 📂 [**View Repository**](https://github.com/1suleyman/Linux-Learning-Challenges)
 
