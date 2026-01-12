@@ -6,7 +6,7 @@ Welcome to **Tech-Journey** — this is where I document my personal deep-dive i
 
 This repo is organized by topic — each folder contains blog-style breakdowns, mini-labs, and notes from my study journey.
 
-It currently holds over 120 labs ✅, enjoy!
+It currently holds over 120 labs, enjoy! ✅
 
 | 📁 Folder                                            | 🌟 What's Inside                                                                                                                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
