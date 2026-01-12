@@ -6,6 +6,8 @@ Welcome to **Tech-Journey** — this is where I document my personal deep-dive i
 
 This repo is organized by topic — each folder contains blog-style breakdowns, mini-labs, and notes from my study journey.
 
+It currently holds over 120 labs, enjoy!
+
 | 📁 Folder                                            | 🌟 What's Inside                                                                                                                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**DevOps Pre-Requisites**](https://github.com/1suleyman/-DevOps-Pre-Requisites-Course/tree/main) | My complete foundation course from KodeKloud covering: <br> • Linux, networking, web servers, and databases <br> • Git and version control basics <br> • Application deployment and security fundamentals <br> • 2-tier app setup (web + database) <br> • The perfect starting point for the DevOps learning path <br> • 28 Labs Completed ✅                                                |
