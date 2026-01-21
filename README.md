@@ -40,7 +40,6 @@ I wanted a space where I could:
 Soon I’ll be adding new folders and content for:
 
 * **PowerShell**
-* **CI/CD with GitHub Actions & Pipelines**
 
 ---
 
